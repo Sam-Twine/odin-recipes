@@ -3,4 +3,18 @@
     font-weight: bold;
     color: white;
     background-color: rgb(61, 61, 61);
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 25px;
+    font-style: italic;
+}
+
+li {
+    padding-bottom: 10px;
 }
